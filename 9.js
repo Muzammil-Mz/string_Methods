@@ -1,2 +1,4 @@
-let naems="uppercase"
-console.log(naems.toUpperCase());
+// let naems="uppercase"
+// console.log(naems.toUpperCase());
+
+
